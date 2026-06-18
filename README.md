@@ -16,7 +16,7 @@ Otomachi Una (音街ウナ) is a Japanese vocal developed by AH-Software Co. Ltd
 - Commercial Use of Character Allowed: No
 - Redistribution of Voicebank Allowed: No
 - Alteration of Voicebank/Oto.ini Allowed: Yes (for personal use)
-- Crediting Required: Yes (Credit "Evernight" as the conversion author)
+- Crediting Required: Yes (Credit "Evernight")
 
 ## Groups
 - [KagamineKagaminePorts](https://github.com/toodedicated/KagamineKagaminePorts)
