@@ -3,7 +3,7 @@
 
 ![Avatar](/image.png)
 
-Otomachi Una (音街ウナ) is a Japanese vocal developed by AH-Software Co. Ltd. and distributed by Internet Co., Ltd. in collaboration with MTK Inc. and released as an AI voice database for Synthesizer V Studio in November 2024. She received an update for Synthesizer V Studio 2[1] in September 2025. She is voiced by the Japanese voice actress, Aimi Tanaka (田中あいみ; Tanaka Aimi).
+Otomachi Una (音街ウナ) is a Japanese VOCALOID developed by Internet Co., Ltd. in collaboration with MTK Inc. and was released in July 2016 for the VOCALOID4 engine. A speech bank was also released for Talk Ex; a VOICEROID2 version of such talk bank was released in December 2020,[2][3] and a new version for A.I.VOICE2[4] is expected to release in February 2025.[5] In July 2021, she also had a voicebank release in the Voidol engine. Una was updated to the VOCALOID6 with AI voicebanks in June 2023.[6] A new talk voice database for VOICEPEAK was released in September 2023,[7] an AI voice database version for Synthesizer V Studio was released in November 2024,[8] and an update for the latter to Synthesizer V Studio 2 released in September 2025,[9] all three developed by AH-Software Co. Ltd.. She is voiced by the Japanese voice actress, Aimi Tanaka (田中あいみ; Tanaka Aimi).
 
 
 
